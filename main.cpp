@@ -1,10 +1,3 @@
-/*
-Name:Diego lacambacal, NSHE: 5005247606, Section: 135-1002, Assignment 10
-Description: Cosmo and wanda world
-Input: File name, seat wanted and continue
-Output: seats, price, and prompts
-*/
-
 #include <iostream>
 #include <iomanip>
 #include <fstream>
