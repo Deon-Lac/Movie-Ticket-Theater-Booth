@@ -1,0 +1,8 @@
+Fairy_Show	62.52	39.15	10.0	67.43	43.02
+Pollywollyoptasaurus_Show	63.7	21.84	6.22	14.2	86.39
+Chompy_The_Goat	77.92	14.71	25.76	24.71	2.02
+Cosmos_Bad_Idea	68.99	37.12	1.06	48.58	52.75	
+Mark	87.26	80.29	96.05	70.3	1.25	
+AntiWanda_vs_Wanda	38.92	89.67	17.01	15.97	2.5
+Tribute_To_Catman	61.02	78.66	54.77	93.23	3.68
+Chip_Skylark	46.4	36.56	44.17	94.17	76.52
